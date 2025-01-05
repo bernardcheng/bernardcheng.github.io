@@ -20,14 +20,14 @@ ML topics of interest:
 Professional Experience
 ------
 
-* Data Analyst @ Bank of Singapore (Aug 2022 - Present)
+* Data Analyst @ Bank of Singapore (Aug 2022 - _Present_)
 * Data Engineer @ NCS Pte. Ltd. (Feb 2022 - Jul 2022)
-* Associate Consultant @ Synpulse singapore Pte. Ltd. (Oct 2019 - Aug 2021)
+* Associate Consultant @ Synpulse Singapore Pte. Ltd. (Oct 2019 - Aug 2021)
 * Data Scientist @ Television Content Analytics (TVCONal) (May 2018 - Jan 2019)
 * Business Analyst Intern @ OCBC Bank (Apr 2017 - Sep 2017)
 
 Industry Projects
 ------
 
-1. Final Year Capstone Project: AI Application for Maritime Industry (Alpha Ori Technologies Pte Ltd.)
-2. Correlation Between Passengers’ Feedback & Cabin Crew Performance (Singapore Airlines)
+1. Alpha Ori Technologies Pte Ltd. - AI Application for Maritime Industry
+2. Singapore Airlines - Correlation Between Passengers’ Feedback & Cabin Crew Performance
