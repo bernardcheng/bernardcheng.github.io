@@ -21,7 +21,7 @@ repository               : "bernardcheng/bernardcheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic_informal.jpg"
+  avatar           : "profile_pic_informal.png"
   name             : "Bernard Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Inquisitive analyst and coder. Inspired by tough problems."
