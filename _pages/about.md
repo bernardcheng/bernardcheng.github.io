@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+<!-- About Me -->
 ------
 
 Data Analyst by day, part-time ML graduate student at night.
